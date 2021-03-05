@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on My self
 - 🌱 I’m currently learning Spring Boot
 - 👯 I’m looking to collaborate on linkedin
-- 🤔 I’m looking for help with  django
+- 🤔 I’m looking for help with Spring MVC
 - 💬 Ask me about anything, I am happy to help;
 - 📫  Please email via obhagawat0@gmail.com to reach me.
 - 😄 Pronouns:He/His
