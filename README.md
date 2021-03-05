@@ -1,7 +1,6 @@
 
 
-- ⚡ Fun fact: I am mechanical engineer!!!
-- 📝 See my Resume to get more info.
+
 
 <h1 align="center">Hi 👋, I'm Omkar Bhagawat</h1>
 <h3 align="center">A passionate software developer from India</h3>
@@ -24,10 +23,10 @@
 
 - 📝 See my Resume to get more info.
 
-- 📫 How to reach me **obhagawat0@gmail.com**
+- 📫  reach me on **obhagawat0@gmail.com**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://st2.depositphotos.com/1802620/7621/v/950/depositphotos_76219969-stock-illustration-online-shopping-flat-concept.jpg" width="100%">
 </p>
 
 
@@ -41,16 +40,7 @@
 
 
 
-### Hey Sourav here 👋
 
----
-
- 
-
-![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
-
-
----
 
 
 ### Tech & Tools Preference
@@ -96,24 +86,13 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/s
 <br/>
 
 
----
-### You can checkout my blogs :loudspeaker: 
 
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@Souravdey777)
 
-[Add your blogs to your github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs) 
-
----
-
-Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [Souravdey777](https://github.com/Souravdey777)
 
-[website]: https://souravdey777.github.io/Portfolio/
-[twitter]: https://twitter.com/Souravdey777
-[youtube]: https://youtube.com/
+
 [instagram]: https://www.instagram.com/souravdey777/
 [linkedin]: https://www.linkedin.com/in/sourav-dey/
-[medium]: https://medium.com/@Souravdey777/
+
