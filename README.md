@@ -54,7 +54,7 @@
                                
 <br/>
 
-# <align="centre" **Github Stats:**>
+ <align="centre" **Github Stats:**>
 
 <br/>
 
