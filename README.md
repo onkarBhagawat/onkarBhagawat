@@ -32,8 +32,8 @@
 <style>
 <h5>
  Connect with me 
-  </h5>
-  </style>
+  <\h5>
+  <\style>
  
  <p>
  <img src="omi.GIF" height="50">
