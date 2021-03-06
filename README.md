@@ -33,7 +33,7 @@
 <a href="obhagawat0@gmail.com">
   <img align="left" alt="Omkar's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="www.linkedin.com/in/omkar-bhagawat">
+<a href=https://www.linkedin.com/in/omkar-bhagawat/>
   <img align="left" alt="Omkar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/onkarBhagawat">
