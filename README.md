@@ -29,8 +29,8 @@
 
 - 📫  reach me on **obhagawat0@gmail.com**
 <h5>
- #Connect with me #
-  </>h5
+ Connect with me 
+  </h5>
  
  <p>
  <img src="omi.GIF" height="50">
