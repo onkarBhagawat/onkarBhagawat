@@ -32,7 +32,7 @@
  #Connect with me #
  
  <p>
- <img src="omi" height="50">
+ <img src="omi.GIF" height="50">
   </p>
 
 <img src="https://i.gifer.com/O3Qk.gif width="35">
