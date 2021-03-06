@@ -30,7 +30,10 @@
 - 📫  reach me on **obhagawat0@gmail.com**
 
  #Connect with me #
+ 
+ <p>
  <img src="omi" height="50">
+  </p>
 
 <img src="https://i.gifer.com/O3Qk.gif width="35">
  <br/>
