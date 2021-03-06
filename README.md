@@ -19,13 +19,9 @@
 
 - ⚡ Fun fact: I am mechanical engineer!!!
 
-- 📝 See my Resume to get more info.
-
 - 👨‍💻 All of my projects are available at [https://github.com/onkarBhagawat](https://github.com/onkarBhagawat)
 
 - 💬 Ask me about **anything, I am happy to help**
-
-- 📝 See my Resume to get more info.
 
 - 📫  reach me on **obhagawat0@gmail.com**
 
