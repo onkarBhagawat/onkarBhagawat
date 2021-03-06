@@ -33,29 +33,31 @@
  
 <br/>
 <a href="obhagawat0@gmail.com">
-  <img align="left" alt="Omkar's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Onkar's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href=https://www.linkedin.com/in/omkar-bhagawat/>
-  <img align="left" alt="Omkar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Onkar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/onkarBhagawat">
-  <img align="left" alt="Omkar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Onkar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/OmkarBhagawat">
-  <img align="left" alt="Omkar's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Onkar's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.facebook.com/ash.jon1/">
-  <img align="left" alt="Omkar's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Onkar's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href=https://www.instagram.com/omkar_bhagawat/">
-  <img align="left" alt="Omkar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Onkar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-                                                                                  
+          
+                               
 <br/>
 
-**Github Stats:**
+# <align="centre" **Github Stats:**>
 
 <br/>
+
 <a href="https://github.com/onkarBhagawat/onkarBhagawat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkarBhagawat&theme=light&hide_langs_below=1" />
 </a>
