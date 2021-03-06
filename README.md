@@ -50,13 +50,12 @@
 <a href=https://www.instagram.com/omkar_bhagawat/">
   <img align="left" alt="Onkar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-          
-                               
+                             
 <br/>
 
- <align="center"                                     **Github Stats:**>
+                           **Github Stats**
 
-<br/>
+
 
 <a href="https://github.com/onkarBhagawat/onkarBhagawat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkarBhagawat&theme=light&hide_langs_below=1" />
