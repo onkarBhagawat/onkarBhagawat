@@ -28,9 +28,12 @@
 - 📝 See my Resume to get more info.
 
 - 📫  reach me on **obhagawat0@gmail.com**
+
+<style>
 <h5>
  Connect with me 
   </h5>
+  </style>
  
  <p>
  <img src="omi.GIF" height="50">
