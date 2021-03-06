@@ -48,9 +48,7 @@
 <a href=https://www.instagram.com/omkar_bhagawat/">
   <img align="left" alt="Omkar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
-<p>
-  </p>
+<br/>
 
 **Github Stats:**
 
