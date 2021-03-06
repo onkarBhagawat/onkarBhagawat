@@ -45,9 +45,9 @@
 <a href="https://www.facebook.com/ash.jon1/">
   <img align="left" alt="Omkar's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
-<br/>
-<br/>
+<a href=https://www.instagram.com/omkar_bhagawat/">
+  <img align="left" alt="Omkar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
 **Github Stats:**
 
