@@ -31,16 +31,7 @@
 
 # Connect with me<img src="https://github.com/OmkarRatnaparkhi/OmkarRatnaparkhi/blob/main/Handshake.gif" height="30px">
  
- <p>
- <img src="omi.GIF" height="50">
-  </p>
-
-<img src="https://i.gifer.com/O3Qk.gif width="35">
- <br/>
- 
-
 <br/>
-
 <a href="obhagawat0@gmail.com">
   <img align="left" alt="Omkar's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
@@ -59,17 +50,16 @@
 <a href=https://www.instagram.com/omkar_bhagawat/">
   <img align="left" alt="Omkar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-                                                            
-                             
+                                                                                  
 <br/>
 
 **Github Stats:**
 
 <br/>
-<a href="https://github.com/onkarBhagawat">
+<a href="https://github.com/onkarBhagawat/onkarBhagawat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarBhagawat&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/omkarBhagawat">
+<a href="https://github.com/omkarBhagawat/onkarBhagawat">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarBhagawat&show_icons=true&theme=light&line_height=27" alt="Omkar's github stats"/>
 </a>
 <a href="https://github.com/omkarBhagawat/Customized_Virtual_File_System">
