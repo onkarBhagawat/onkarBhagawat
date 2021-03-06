@@ -28,7 +28,7 @@
 - 📝 See my Resume to get more info.
 
 - 📫  reach me on **obhagawat0@gmail.com**
-
+<h1> Mi shet uptli </h1>
 # Connect with me<img src="https://github.com/OmkarRatnaparkhi/OmkarRatnaparkhi/blob/main/Handshake.gif" height="30px">
  
 <br/>
