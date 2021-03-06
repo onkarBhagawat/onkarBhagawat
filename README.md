@@ -29,11 +29,7 @@
 
 - 📫  reach me on **obhagawat0@gmail.com**
 
-<style>
-<h5>
- Connect with me 
-  <\h5>
-  <\style>
+# Connect with me<img src="https://github.com/OmkarRatnaparkhi/OmkarRatnaparkhi/blob/main/Handshake.gif" height="30px">
  
  <p>
  <img src="omi.GIF" height="50">
