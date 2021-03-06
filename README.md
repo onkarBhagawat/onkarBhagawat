@@ -30,7 +30,7 @@
 - 📫  reach me on **obhagawat0@gmail.com**
 
 # Connect with me#
-<img src="https://i.gifer.com/O3Qk.gif" height="50px">
+<img src="https://i.gifer.com/O3Qk.gif" height="50">
 <br/>
 
 <a href="obhagawat0@gmail.com">
@@ -56,6 +56,7 @@
 <br/>
 
 **Github Stats:**
+
 <br/>
 <a href="https://github.com/onkarBhagawat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarBhagawat&theme=light&hide_langs_below=1" />
