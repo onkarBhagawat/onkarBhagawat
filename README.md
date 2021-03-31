@@ -65,9 +65,7 @@
 <a href="https://github.com/OnkarBhagawat">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OnkarBhagawat&show_icons=true&theme=light&line_height=27" alt="Onkar's github stats"/>
 </a>
-<a href="https://github.com/OnkarBhagawat/Customize_Virtual_File_System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OnkarBhagawat&repo=Customize_Virtual_File_System&theme=light" />
-</a>
+
 <br />
 
 
