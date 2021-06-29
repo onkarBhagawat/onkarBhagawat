@@ -26,7 +26,7 @@
 
 - 📫  reach me on **obhagawat0@gmail.com**
 
--👨🏻‍💻   Trailhead Link:**https://trailblazer.me/id/obhagawat**
+- 👨🏻‍💻   Trailhead Link:**https://trailblazer.me/id/obhagawat**
 
 # Connect with me<img src="https://github.com/OmkarRatnaparkhi/OmkarRatnaparkhi/blob/main/Handshake.gif" height="30px">
  
@@ -49,7 +49,7 @@
 <a href=https://www.instagram.com/omkar_bhagawat/">
   <img align="left" alt="Onkar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>                     
-<a href=https://https://trailblazer.me/id/">
+<a href=https://trailblazer.me/id">
   <img align="left" alt="Onkar's trailblazer.me " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/trailblazer.me" />
 </a>
                        
